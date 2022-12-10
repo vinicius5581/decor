@@ -1,4 +1,4 @@
-### Impressão e instalação de lonas para fachadas
+# Impressão e instalação de lonas para fachadas
 
 A Decor Brindes disponibiliza todos os serviços necessários para instalação de fachadas com lonas impressas digitalmente.
 
@@ -6,7 +6,7 @@ Fachadas com lona aumentam a visibilidade de seu negócio, melhorando a apresent
 
 Oferecemos serviços de design, impressão digital colorida, construção e manutenção da estrutura metálica, e instalação da lona com qualidade garantida, utilizando materiais altamente duráveis, resistentes a ventos e chuvas.
 
-#### Design
+## Design
 
 Após colhermos todas as informações, preferências e referências de você cliente, nossos designers vão trabalhar no desenho (design / arte) que é então apresentado a você para ser revisado. 
 
@@ -16,11 +16,11 @@ Oferecemos até cinco revisões por padrão. Mais revisões podem ser adicionada
 
 Templates? Portfolio?
 
-#### Impressão
+## Impressão
 
 A impressão da lona é feita em material XXX, colorida, com uma resolução de XXX e com um expectativa de durabilidade externa de três anos. 
 
-#### Estrutura metálica
+## Estrutura metálica
 
 As lonas para fachadas são instaladas em estruturas metálicas que são usadas como molduras.
 
@@ -29,6 +29,6 @@ Fazemos manutenção de estruturas já existentes e construímos estruturas caso
 Utilizamos tubos de aço metalon e serviços de serralheria de alta qualidade como experiência comprovada.
 
 
-#### Instalação da Lona
+## Instalação da Lona
 
 Instalamos 
